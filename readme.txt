@@ -2,6 +2,8 @@ How to Work fast
 
 For work space
 
+npm install gulp-cli -g
+
 1. create new folder of project
 2. Copy this package.json
 3. Create SRC and BUILD Folder  >>>  mkdir -p src/{html,images,js,scss} build/assets/{images,js,css}
